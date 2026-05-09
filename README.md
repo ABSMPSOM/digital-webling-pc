@@ -289,13 +289,13 @@ Fork → Clone → Improve → Pull Request
 # 📸 Screenshots
 
 ## Dashboard
-> Add screenshot here
+> https://drive.google.com/file/d/1dowB7ZlA_fO2IDQF6pde--i2Tu5xKMH6/view?usp=sharing
 
 ## Rankings
-> Add screenshot here
+> https://drive.google.com/file/d/1Horl1AwHn7PzS2jrCQ1pEX_eKnsXTzwB/view?usp=drive_link
 
 ## Skill Tree
-> Add screenshot here
+> https://drive.google.com/file/d/1kxY22yFD1hNu3SY7-vjgqQboeHpB5fvA/view?usp=drive_link
 
 ---
 
