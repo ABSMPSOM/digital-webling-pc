@@ -1,35 +1,83 @@
 {
     "2026-05-09": {
         "python": {
-            "time": 160.4784631729126,
-            "opens": 11
+            "time": 700.5897147655487,
+            "opens": 41
         },
         "code": {
-            "time": 667.5539057254791,
-            "opens": 12
+            "time": 844.8488397598267,
+            "opens": 26
         },
         "brave": {
-            "time": 164.4323422908783,
-            "opens": 5
+            "time": 2084.1545293331146,
+            "opens": 43
         },
         "explorer": {
-            "time": 95.41926789283752,
-            "opens": 4
+            "time": 487.9853546619415,
+            "opens": 66
         },
         "system idle": {
             "time": 0.0,
             "opens": 1
         },
         "taskmgr": {
-            "time": 12.680235862731934,
-            "opens": 1
+            "time": 70.14355993270874,
+            "opens": 3
         },
         "snippingtool": {
-            "time": 20.472127199172974,
-            "opens": 3
+            "time": 30.64744520187378,
+            "opens": 6
         },
         "pickerhost": {
             "time": 1.2081356048583984,
+            "opens": 1
+        },
+        "pythonw": {
+            "time": 17.12468934059143,
+            "opens": 1
+        },
+        "searchhost": {
+            "time": 7.125411748886108,
+            "opens": 4
+        },
+        "applicationframehost": {
+            "time": 54.60266470909119,
+            "opens": 5
+        },
+        "translucenttb": {
+            "time": 3.0362448692321777,
+            "opens": 1
+        },
+        "photos": {
+            "time": 3.124359607696533,
+            "opens": 1
+        },
+        "discord": {
+            "time": 53.61646485328674,
+            "opens": 3
+        },
+        "riot client": {
+            "time": 39.408101081848145,
+            "opens": 2
+        },
+        "nvidia overlay": {
+            "time": 7.189229249954224,
+            "opens": 2
+        },
+        "valorant-win64-shipping": {
+            "time": 1227.6436846256256,
+            "opens": 3
+        },
+        "vlc": {
+            "time": 4129.339749336243,
+            "opens": 29
+        },
+        "easeofaccessdialog": {
+            "time": 4.122673988342285,
+            "opens": 1
+        },
+        "idman": {
+            "time": 82.98581385612488,
             "opens": 1
         }
     }
