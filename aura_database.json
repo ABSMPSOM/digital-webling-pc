@@ -1,20 +1,20 @@
 {
     "2026-05-09": {
         "python": {
-            "time": 700.5897147655487,
-            "opens": 41
+            "time": 857.0658895969391,
+            "opens": 51
         },
         "code": {
-            "time": 844.8488397598267,
-            "opens": 26
+            "time": 950.0572073459625,
+            "opens": 37
         },
         "brave": {
-            "time": 2084.1545293331146,
-            "opens": 43
+            "time": 4204.379995584488,
+            "opens": 55
         },
         "explorer": {
-            "time": 487.9853546619415,
-            "opens": 66
+            "time": 554.0748057365417,
+            "opens": 89
         },
         "system idle": {
             "time": 0.0,
@@ -33,8 +33,8 @@
             "opens": 1
         },
         "pythonw": {
-            "time": 17.12468934059143,
-            "opens": 1
+            "time": 21.270481824874878,
+            "opens": 2
         },
         "searchhost": {
             "time": 7.125411748886108,
@@ -53,8 +53,8 @@
             "opens": 1
         },
         "discord": {
-            "time": 53.61646485328674,
-            "opens": 3
+            "time": 147.29715251922607,
+            "opens": 11
         },
         "riot client": {
             "time": 39.408101081848145,
@@ -69,8 +69,8 @@
             "opens": 3
         },
         "vlc": {
-            "time": 4129.339749336243,
-            "opens": 29
+            "time": 13714.442662715912,
+            "opens": 55
         },
         "easeofaccessdialog": {
             "time": 4.122673988342285,
@@ -78,6 +78,88 @@
         },
         "idman": {
             "time": 82.98581385612488,
+            "opens": 1
+        },
+        "lockapp": {
+            "time": 26.03032112121582,
+            "opens": 1
+        }
+    },
+    "2026-05-10": {
+        "brave": {
+            "time": 5452.362245798111,
+            "opens": 31
+        },
+        "explorer": {
+            "time": 848.9711980819702,
+            "opens": 59
+        },
+        "pythonw": {
+            "time": 80.43135738372803,
+            "opens": 6
+        },
+        "snippingtool": {
+            "time": 25.70165252685547,
+            "opens": 3
+        },
+        "shellexperiencehost": {
+            "time": 4.109062671661377,
+            "opens": 3
+        },
+        "photos": {
+            "time": 2.1238491535186768,
+            "opens": 1
+        },
+        "searchhost": {
+            "time": 8.331522703170776,
+            "opens": 4
+        },
+        "telegram": {
+            "time": 760.4331653118134,
+            "opens": 6
+        },
+        "python": {
+            "time": 213.80088996887207,
+            "opens": 15
+        },
+        "code": {
+            "time": 19.323242664337158,
+            "opens": 5
+        },
+        "riot client": {
+            "time": 543.8249571323395,
+            "opens": 10
+        },
+        "discord": {
+            "time": 122.61764550209045,
+            "opens": 7
+        },
+        "robloxplayerbeta": {
+            "time": 75.76076197624207,
+            "opens": 6
+        },
+        "idman": {
+            "time": 33.9169979095459,
+            "opens": 6
+        },
+        "taskmgr": {
+            "time": 16.09321904182434,
+            "opens": 3
+        },
+        "applicationframehost": {
+            "time": 59.63721179962158,
+            "opens": 12
+        },
+        "shellhost": {
+            "time": 80.62713932991028,
+            "opens": 5
+        },
+        "valorant-win64-shipping": {
+            "time": 1197.1848645210266,
+            "opens": 1
+        },
+        "startmenuexperiencehost": {
+            "time": 0.0,
             "opens": 1
         }
     }
